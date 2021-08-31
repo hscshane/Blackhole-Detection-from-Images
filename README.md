@@ -1,5 +1,4 @@
 # Blackhole-Detection-from-Images
-Train ML models to find blackholes simply from an image of the sky
 ## Goal:
 This projects aim to find and train ML models to classify super massive blackholes (AGN) from a cutout image of the source.
 
